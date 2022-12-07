@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1670419640 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"Publicaciones.h"
+	"Validaciones.h"
+	"Informes.h"
+	"Parser.h"
+
+1670417049 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1670417933 c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\linkedlist.h
+
+1670416475 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1670417933 c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\validaciones.h
+
+1670419640 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"publicaciones.h"
+
+1670419640 c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\publicaciones.h
+
+1670419546 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"Publicaciones.h"
+	"Validaciones.h"
+	"Informes.h"
+
+1670419546 c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\informes.h
+
+1670419640 c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\parser.h
+
+1670419640 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\recuperatoriolabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"Publicaciones.h"
+	"Validaciones.h"
+	"Informes.h"
+	"Parser.h"
+
